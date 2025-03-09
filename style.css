@@ -1,9 +1,6 @@
 body {
-    background-color: rgb(231, 166, 166);
-}
-h1 {
-    color: rgb(219, 48, 48);
-}
-h2 {
-    color: rgb(78, 45, 31);
-}
+    font: 1rem/1.5 var(--bs-font-sans-serif);
+  }
+  a {
+    color: var(--bs-blue);
+  }
